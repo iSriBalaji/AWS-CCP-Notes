@@ -2,8 +2,8 @@
 title: Section 3 - What is Cloud Computing?
 updated: 2022-06-27 22:54:00Z
 created: 2022-06-27 05:07:12Z
-latitude: 42.96394700
-longitude: -78.73780910
+latitude: 0.00
+longitude: 0.00
 altitude: 0.0000
 tags:
   - aws
