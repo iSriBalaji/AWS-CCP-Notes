@@ -2,8 +2,8 @@
 title: Section 5 - Elastic Compute Cloud
 updated: 2022-06-30 22:08:33Z
 created: 2022-06-29 22:26:12Z
-latitude: 37.51200480
-longitude: -85.69857270
+latitude: 0
+longitude: 0
 altitude: 0.0000
 ---
 
