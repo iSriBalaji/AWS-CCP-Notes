@@ -2,8 +2,8 @@
 title: Section 1,2 - Introduction
 updated: 2022-06-27 05:08:13Z
 created: 2022-06-27 04:34:56Z
-latitude: 42.96394700
-longitude: -78.73780910
+latitude: 0
+longitude: 0
 altitude: 0.0000
 tags:
   - aws
