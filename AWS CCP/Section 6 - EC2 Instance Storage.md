@@ -2,8 +2,8 @@
 title: Section 6 - EC2 Instance Storage
 updated: 2022-07-01 00:10:34Z
 created: 2022-06-30 22:14:13Z
-latitude: 37.51200480
-longitude: -85.69857270
+latitude: 0
+longitude: 0
 altitude: 0.0000
 ---
 
